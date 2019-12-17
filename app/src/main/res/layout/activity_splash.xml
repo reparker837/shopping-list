@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/list_background">
+
+
+    <ImageView
+        android:id="@+id/ivCart"
+        android:layout_width="195dp"
+        android:layout_height="246dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="200dp"
+        app:srcCompat="@drawable/shopping_icon" />
+
+</LinearLayout>
